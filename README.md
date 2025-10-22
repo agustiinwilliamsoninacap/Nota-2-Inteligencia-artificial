@@ -178,4 +178,4 @@ El proyecto demuestra cómo aplicar IA para resolver problemas reales en salud y
 * Los **costos médicos** se explican principalmente por factores de riesgo como tabaquismo, IMC y edad.
 * La **optimización de hiperparámetros** y el **balance de datos** son fundamentales para mejorar el rendimiento.
 
-
+## Integrantes : Agustin  williamson , Matias Sepulveda
